@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -135,5 +135,3 @@
     <footer>
         <p>&copy; 2025 Berita-Fakta-Unik-Dunia. Semua Hak Cipta Dilindungi.</p>
     </footer>
-</body>
-</html>
