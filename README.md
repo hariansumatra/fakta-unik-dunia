@@ -128,12 +128,10 @@
             <h2>Kesimpulan</h2>
             <article>
                 <p>Saat ini Game Online sudah menjadi sebuah hal yang tidak asing di telinga kita. Dunia Game Online saat ini tentunya sudah pasti berbeda dengan zaman dahulu. Berkat kemajuan tekhnologi saat ini game online kini dapat diakses atau dimainkan malalui sebuah smartphone saja.</p>
-            </article>
-            <article>
-        </section>
-    </main>
+      
 
-    <!-- Footer -->
+
+  <!-- Footer -->
     <footer>
         <p>&copy; 2025 Berita-Fakta-Unik-Dunia. Semua Hak Cipta Dilindungi.</p>
     </footer>
