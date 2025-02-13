@@ -2,6 +2,7 @@
 
 <html lang="id">
 <head>
+    <meta name="google-site-verification" content="sA6XmGw1GzB2uQjX-X39VOCqnvY6yd7Zzed3mRsFsU0" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Fakta-Unik-Dunia - Berita, informasi, dan update terkini dari seluruh dunia">
